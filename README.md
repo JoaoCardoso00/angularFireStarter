@@ -1,6 +1,6 @@
 # Firestarter
 
-A Kanban PWA inspired by Trello using angular and firebase
+A Kanban PWA inspired by Trello using angular, firebase and nest.js
 
 ## How its done
 
