@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angularkanban-e7ae9": {
+      "hosting": {
+        "firestarter": [
+          "angularkanban-e7ae9"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angularkanban-e7ae9"
+  }
+}
